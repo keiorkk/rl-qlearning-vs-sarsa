@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+results/curves/*.png
+results/logs/*.csv
+*.pyc
